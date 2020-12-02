@@ -1,5 +1,4 @@
 import json
-import telegram
 import requests
 import xmltodict
 
